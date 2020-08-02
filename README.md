@@ -12,16 +12,16 @@ Confined at :house:
 
 # Languages and Tools
 
-![Js](https://github.com/SajeshBahing/SajeshBahing/blob/master/javascript.svg)
-![PHP](https://github.com/SajeshBahing/SajeshBahing/blob/master/php.svg)
-![HTML5](https://github.com/SajeshBahing/SajeshBahing/blob/master/html5.svg)
-![CSS3](https://github.com/SajeshBahing/SajeshBahing/blob/master/css3.svg)
-![SASS](https://github.com/SajeshBahing/SajeshBahing/blob/master/sass.svg)
-![Reactjs](https://github.com/SajeshBahing/SajeshBahing/blob/master/react.svg)
-![jQuery](https://github.com/SajeshBahing/SajeshBahing/blob/master/jquery.svg)
-![Docker](https://github.com/SajeshBahing/SajeshBahing/blob/master/docker.svg)
-![VSCode](https://github.com/SajeshBahing/SajeshBahing/blob/master/vscode.svg)
-![Wordpress](https://github.com/SajeshBahing/SajeshBahing/blob/master/wordpress.svg)
+![Js](https://github.com/SajeshBahing/SajeshBahing/blob/master/javascript.svg?v=1)
+![PHP](https://github.com/SajeshBahing/SajeshBahing/blob/master/php.svg?v=1)
+![HTML5](https://github.com/SajeshBahing/SajeshBahing/blob/master/html5.svg?v=1)
+![CSS3](https://github.com/SajeshBahing/SajeshBahing/blob/master/css3.svg?v=1)
+![SASS](https://github.com/SajeshBahing/SajeshBahing/blob/master/sass.svg?v=1)
+![Reactjs](https://github.com/SajeshBahing/SajeshBahing/blob/master/react.svg?v=1)
+![jQuery](https://github.com/SajeshBahing/SajeshBahing/blob/master/jquery.svg?v=1)
+![Docker](https://github.com/SajeshBahing/SajeshBahing/blob/master/docker.svg?v=1)
+![VSCode](https://github.com/SajeshBahing/SajeshBahing/blob/master/vscode.svg?v=1)
+![Wordpress](https://github.com/SajeshBahing/SajeshBahing/blob/master/wordpress.svg?v=1)
 
 <!--
 **SajeshBahing/SajeshBahing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
