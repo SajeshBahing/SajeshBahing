@@ -7,21 +7,21 @@ Confined at :house:
 # More about me:
 * :pencil: I am currently learning GraphQL and CI/CD
 * :eyes: I am currently looking for a position to fill in at "X" company 
-* :link: Connect with me at [![Linkedin](https://github.com/SajeshBahing/SajeshBahing/blob/master/linkedin.svg | width=67)](https://www.linkedin.com/in/sajesh-bahing/)
+* :link: Connect with me at [![Linkedin](https://github.com/SajeshBahing/SajeshBahing/blob/master/linkedin.svg)](https://www.linkedin.com/in/sajesh-bahing/)
 * :clipboard: Resume [My Resume](https://drive.google.com/file/d/1xGJbCR2UXF0znjyUJP5yYzHUcO9djfY0/view?usp=sharing)
 
 # Languages and Tools
 
-![Js](https://github.com/SajeshBahing/SajeshBahing/blob/master/javascript.svg | width=40)
-![PHP](https://github.com/SajeshBahing/SajeshBahing/blob/master/php.svg | width=40)
-![HTML5](https://github.com/SajeshBahing/SajeshBahing/blob/master/html5.svg | width=40)
-![CSS3](https://github.com/SajeshBahing/SajeshBahing/blob/master/css3.svg | width=40)
-![SASS](https://github.com/SajeshBahing/SajeshBahing/blob/master/sass.svg | width=40)
-![Reactjs](https://github.com/SajeshBahing/SajeshBahing/blob/master/react.svg | width=40)
-![jQuery](https://github.com/SajeshBahing/SajeshBahing/blob/master/jquery.svg | width=40)
-![Docker](https://github.com/SajeshBahing/SajeshBahing/blob/master/docker.svg | width=40)
-![VSCode](https://github.com/SajeshBahing/SajeshBahing/blob/master/vscode.svg | width=40)
-![Wordpress](https://github.com/SajeshBahing/SajeshBahing/blob/master/wordpress.svg | width=40)
+![Js](https://github.com/SajeshBahing/SajeshBahing/blob/master/javascript.svg)
+![PHP](https://github.com/SajeshBahing/SajeshBahing/blob/master/php.svg)
+![HTML5](https://github.com/SajeshBahing/SajeshBahing/blob/master/html5.svg)
+![CSS3](https://github.com/SajeshBahing/SajeshBahing/blob/master/css3.svg)
+![SASS](https://github.com/SajeshBahing/SajeshBahing/blob/master/sass.svg)
+![Reactjs](https://github.com/SajeshBahing/SajeshBahing/blob/master/react.svg)
+![jQuery](https://github.com/SajeshBahing/SajeshBahing/blob/master/jquery.svg)
+![Docker](https://github.com/SajeshBahing/SajeshBahing/blob/master/docker.svg)
+![VSCode](https://github.com/SajeshBahing/SajeshBahing/blob/master/vscode.svg)
+![Wordpress](https://github.com/SajeshBahing/SajeshBahing/blob/master/wordpress.svg)
 
 <!--
 **SajeshBahing/SajeshBahing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
