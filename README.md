@@ -4,10 +4,13 @@
 :computer: Developer at `null`
 Confined at :house:
 
-#More about me
+# More about me:
 * :pencil: I am currently learning GraphQL and CI/CD
 * :eyes: I am currently looking for a position to fill in at X company 
-* :link: Connect with me at ![Linkedin](https://github.com/SajeshBahing/SajeshBahing/blob/master/linkedin.svg)
+* :link: Connect with me at [![Linkedin](https://github.com/SajeshBahing/SajeshBahing/blob/master/linkedin.svg)](https://www.linkedin.com/in/sajesh-bahing/)
+* :clipboard: Resume [My Resume](https://drive.google.com/file/d/1xGJbCR2UXF0znjyUJP5yYzHUcO9djfY0/view?usp=sharing)
+
+# Languages and Tools
 
 <!--
 **SajeshBahing/SajeshBahing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
