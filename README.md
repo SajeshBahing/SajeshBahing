@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey there! fellow coders 👋 I am Sajesh Bahing 👋
+
+:books: Graduate of [Deakin University!](https://www.deakin.edu.au/)
+:computer: Developer at `null`, confined at :house:
+
+#More about me
+* :pencil: I am currently learning GraphQL and CI/CD
+* :eyes: I am currently looking for a position to fill in at X company 
+* :link: Connect with me at Linkedin 
 
 <!--
 **SajeshBahing/SajeshBahing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
