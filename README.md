@@ -10,7 +10,7 @@ Confined at :house:
 * :pencil: I am currently learning GraphQL and CI/CD
 * :eyes: I am currently looking for a position to fill in at "X" company 
 * :link: Connect with me at [![Linkedin](https://github.com/SajeshBahing/SajeshBahing/blob/master/linkedin.svg)](https://www.linkedin.com/in/sajesh-bahing/) or send me an email at [sajesh.bahing22@gmail.com](mailto:sajesh.bahing22@gmail.com)
-* :clipboard: [My Resume](https://drive.google.com/file/d/1xGJbCR2UXF0znjyUJP5yYzHUcO9djfY0/view?usp=sharing)
+* :clipboard: [My Resume](https://drive.google.com/file/d/1xCWuLiR7BsuGAK-KlWl52iB8hMbrQq6a/view?usp=sharing)
 
 **Languages and Tools**
 
