@@ -7,8 +7,6 @@ Confined at :house:
 <img align="right" src="https://media3.giphy.com/media/wpoLqr5FT1sY0/giphy.gif?cid=ecf05e472akw10j0dsk6yb3tes6uh7bzxru2782zfmq1sq27&rid=giphy.gif" width="230" />
 
 **More about me:**
-* :pencil: I am currently learning GraphQL and CI/CD
-* :eyes: I am currently looking for a position to fill at "X" company 
 * :link: Connect with me at [![Linkedin](https://github.com/SajeshBahing/SajeshBahing/blob/master/linkedin.svg)](https://www.linkedin.com/in/sajesh-bahing/) or send me an email at [sajesh.bahing22@gmail.com](mailto:sajesh.bahing22@gmail.com)
 * :clipboard: [My Resume](https://drive.google.com/file/d/1kNHukuAK8vz6sDtVl0MyJrPEUfZO5ZOt/view?usp=sharing)
 
