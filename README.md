@@ -1,8 +1,8 @@
 ### Hey there! fellow coders 👋 I am Sajesh Bahing 👋
 
 :books: Graduate of [Deakin University!](https://www.deakin.edu.au/)
-:computer: Developer at `null`
-Confined at :house:
+:computer: Developer at [Cabinets by Computer](https://cabinetsbycomputer.com.au/)
+No longer Confined at :house:
 
 <img align="right" src="https://media3.giphy.com/media/wpoLqr5FT1sY0/giphy.gif?cid=ecf05e472akw10j0dsk6yb3tes6uh7bzxru2782zfmq1sq27&rid=giphy.gif" width="230" />
 
@@ -14,13 +14,8 @@ Confined at :house:
 
 ![Js](https://github.com/SajeshBahing/SajeshBahing/blob/master/javascript.svg?v=1)
 ![PHP](https://github.com/SajeshBahing/SajeshBahing/blob/master/php.svg?v=1)
-![HTML5](https://github.com/SajeshBahing/SajeshBahing/blob/master/html5.svg?v=1)
-![CSS3](https://github.com/SajeshBahing/SajeshBahing/blob/master/css3.svg?v=1)
-![SASS](https://github.com/SajeshBahing/SajeshBahing/blob/master/sass.svg?v=1)
 ![Reactjs](https://github.com/SajeshBahing/SajeshBahing/blob/master/react.svg?v=1)
-![jQuery](https://github.com/SajeshBahing/SajeshBahing/blob/master/jquery.svg?v=1)
 ![Docker](https://github.com/SajeshBahing/SajeshBahing/blob/master/docker.svg?v=1)
-![VSCode](https://github.com/SajeshBahing/SajeshBahing/blob/master/vscode.svg?v=1)
 ![Wordpress](https://github.com/SajeshBahing/SajeshBahing/blob/master/wordpress.svg?v=1)
 
 <!--
