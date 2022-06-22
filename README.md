@@ -8,7 +8,6 @@ No longer Confined at :house:
 
 **More about me:**
 * :link: Connect with me at [![Linkedin](https://github.com/SajeshBahing/SajeshBahing/blob/master/linkedin.svg)](https://www.linkedin.com/in/sajesh-bahing/) or send me an email at [sajesh.bahing22@gmail.com](mailto:sajesh.bahing22@gmail.com)
-* :clipboard: [My Resume](https://drive.google.com/file/d/1kNHukuAK8vz6sDtVl0MyJrPEUfZO5ZOt/view?usp=sharing)
 
 **Languages and Tools**
 
