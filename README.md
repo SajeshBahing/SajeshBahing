@@ -1,10 +1,10 @@
-### Hey there! fellow coders 👋 I am Sajesh Bahing 👋
+### Hey there! fellow coders 👋 I am Sajesh 👋
 
 :books: Graduate of [Deakin University!](https://www.deakin.edu.au/)
 :computer: Developer at [Cabinets by Computer](https://cabinetsbycomputer.com.au/)
 No longer Confined at :house:
 
-<img align="right" src="https://media3.giphy.com/media/wpoLqr5FT1sY0/giphy.gif?cid=ecf05e472akw10j0dsk6yb3tes6uh7bzxru2782zfmq1sq27&rid=giphy.gif" width="230" />
+<img align="right" src="[https://media3.giphy.com/media/wpoLqr5FT1sY0/giphy.gif?cid=ecf05e472akw10j0dsk6yb3tes6uh7bzxru2782zfmq1sq27&rid=giphy.gif](https://media.giphy.com/media/nCVVpakhBTwBi/giphy.gif)" width="230" />
 
 **More about me:**
 * :link: Connect with me at [![Linkedin](https://github.com/SajeshBahing/SajeshBahing/blob/master/linkedin.svg)](https://www.linkedin.com/in/sajesh-bahing/) or send me an email at [sajesh.bahing22@gmail.com](mailto:sajesh.bahing22@gmail.com)
